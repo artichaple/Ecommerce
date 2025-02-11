@@ -1,0 +1,16 @@
+.counterdisplay{
+    background-color: rgba(179, 174, 174, 0.247);
+    height:fit-content;
+    width:fit-content;
+    margin-left:20%;
+   margin-top: 10px;
+}
+
+
+
+.cd_btn{
+    height: 25px;
+    width: 25px;
+    
+    
+}
